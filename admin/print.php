@@ -11,7 +11,7 @@
 
 *
 {
-	border: 0;
+	border: 1;
 	box-sizing: content-box;
 	color: inherit;
 	font-family: inherit;
